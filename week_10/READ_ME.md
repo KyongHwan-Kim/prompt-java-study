@@ -4,12 +4,13 @@
 
 ## 스터디 주제
 ### READ_ME 스터디 내용 정리 세부 주제
-- 자바에서 예외 처리 방법 (try, catch, throw, throws, finally)
-- 자바가 제공하는 예외 계층 구조
-- Exception과 Error의 차이는?
-- RuntimeException과 RE가 아닌 것의 차이는?
-- 커스텀한 예외 만드는 방법
-
+- Thread 클래스와 Runnable 인터페이스
+- 쓰레드의 상태
+- 쓰레드의 우선순위
+- Main 쓰레드
+- 동기화
+- 데드락
+  
 ## 과제 완료 인원
 |이름|닉네임|확인✔|
 |---|------|----|
